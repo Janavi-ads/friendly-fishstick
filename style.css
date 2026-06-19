@@ -1,22 +1,17 @@
 body{
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f4f4f4;
-}
-
-h1{
-    color: #2c3e50;
+font-family: Arial;
+margin:20px;
+background:#f4f4f4;
 }
 
 button{
-    background-color: #3498db;
-    color: white;
-    border: none;
-    padding: 10px;
-    border-radius: 5px;
+background:blue;
+color:white;
+padding:10px;
+border:none;
 }
 
-input{
-    padding: 8px;
-    width: 250px;
+input,textarea{
+width:250px;
+padding:8px;
 }
